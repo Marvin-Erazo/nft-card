@@ -22,10 +22,12 @@ I finished it around 2 hours, and for the responsive only change the width dimen
 ### Screenshot
 
 Mobile
+
 ![nft-card-mobile](https://user-images.githubusercontent.com/90436675/158727238-885cfe43-6def-4672-8ec1-070b25328848.png)
 
 
 Desktop
+
 ![nft-card-desktop](https://user-images.githubusercontent.com/90436675/158727246-c2a4e4c3-0ed1-4d45-9ae5-8c4a90736954.png)
 
 
