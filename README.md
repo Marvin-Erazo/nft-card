@@ -34,7 +34,7 @@ Desktop
 ### Links
 
 - Solution URL: (https://github.com/Marvin-Erazo/nft-card)
-- Live Site URL: (https://your-live-site-url.com)
+- Live Site URL: (https://nft-card-marvin-erazo.netlify.app/)
 
 ## My process
 
